@@ -1,0 +1,102 @@
+body {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+/*Cover*/
+#cover {
+  background-image: url('../images/dragon-tattoo-girl.jpg');
+  background-repeat: no-repeat;
+  position: center;
+  background-size: cover, cover;
+  height: 545px;
+  border-bottom: 8px solid #D40E29;
+  margin-bottom: 15px;
+}
+
+.title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 45px;
+  color: #CFBDBB;
+  padding-left: 10px;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+  line-height: 50px;
+}
+
+.sub-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 37px;
+  padding-left: 10px;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+  color: #D40E29;
+  line-height: 50px;
+}
+
+.book-title {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.purchase-link {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: #D40E29;
+}
+
+.video-section {
+  background-image: url('../images/zwartevilt.png');
+  background-repeat:repeat;
+  border-top: 8px solid #D40E29;
+  border-bottom: 8px solid #D40E29;
+  margin-top: 15px;
+}
+.video-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 15px;
+  color: #CFBDBB;
+}
+
+.quotes-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 15px;
+}
+
+li {
+ font-family: 'Montserrat', sans-serif;
+ font-size: 22px;
+ text-align: center;
+}
+
+span {
+  color: #D40E29;
+  font-style: italic;
+}
+
+footer {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  color: #CFBDBB;
+  border-top: 5px solid #D40E29;
+  border-bottom: 5px solid #D40E29;
+  margin-top: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-image: url('../images/zwartevilt.png');
+  background-repeat: repeat;
+}
